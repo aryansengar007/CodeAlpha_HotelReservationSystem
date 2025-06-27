@@ -23,7 +23,7 @@ A simple command-line Hotel Reservation System built using Java as part of my in
 Hotel-Reservation-System-Java/
 ├── src/
 │   └── main/
-│       ├── HotelSystem.java               # Main menu and logic
+│       ├── HotelSystem.java              
 │       ├── model/
 │       │   ├── Room.java
 │       │   ├── Booking.java
@@ -32,8 +32,8 @@ Hotel-Reservation-System-Java/
 │           ├── DataManager.java
 │           └── PaymentSimulator.java
 ├── data/
-│   ├── rooms.txt                          # Room list and availability
-│   └── bookings.txt                       # Stored bookings
+│   ├── rooms.txt                         
+│   └── bookings.txt                      
 ```
 
 ---
@@ -76,7 +76,11 @@ Aryan Sengar,9318305645,201,Deluxe
 
 ## 📸 Demo
 
-Add screenshots or CLI output to demonstrate booking, cancellation, and room viewing.
+[![Result Screenshot](assets/result_1.png)](assets/result_1.png)
+[![Result Screenshot](assets/result_2.png)](assets/result_2.png)
+[![Result Screenshot](assets/result_3.png)](assets/result_3.png)
+[![Result Screenshot](assets/result_4.png)](assets/result_4.png)
+[![Result Screenshot](assets/result_5.png)](assets/result_5.png)
 
 ---
 
@@ -100,4 +104,4 @@ This project is created for educational and internship purposes.
 **Aryan Sengar**  
 📍 Gurgaon, India  
 🛠 B.Tech CSE with specialization in AI & ML  
-🔗 [LinkedIn](https://www.linkedin.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/aryan-sengar-786b96290/)
