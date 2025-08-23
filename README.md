@@ -105,3 +105,10 @@ This project is created for educational and internship purposes.
 📍 Gurgaon, India  
 🛠 B.Tech CSE with specialization in AI & ML  
 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-sengar-786b96290/)
+
+---
+© 2025 Aryan Sengar – All Rights Reserved  
+Unauthorized copying is strictly prohibited.
+---
+
+> 💬 *Feel free to drop a ⭐ if you find this helpful!*
