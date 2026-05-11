@@ -15,7 +15,7 @@
 <br/>
 
 <!-- CTA BUTTONS -->
-[![GitHub Repo](https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryansengar007/Hotel-Reservation-System-Java)
+[![GitHub Repo](https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryansengar007/CodeAlpha_HotelReservationSystem)
 
 <br/>
 
