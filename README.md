@@ -215,7 +215,7 @@ Aryan Sengar,9318305645,201,Deluxe
 
 ### Aryan Sengar
 
-🎓 **B.Tech CSE (AI & ML)** @ The NorthCap University &nbsp;|&nbsp; 📍 Gurgaon, India
+🎓 **B.Tech CSE (AI & ML)** &nbsp;|&nbsp; 📍 Gurgaon, India
 
 <br/>
 
